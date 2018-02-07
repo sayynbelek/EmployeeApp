@@ -1,0 +1,6 @@
+Z:\EmployeeApp\EmployeeApp\bin\Debug\EmployeeApp.exe.config
+Z:\EmployeeApp\EmployeeApp\bin\Debug\EmployeeApp.exe
+Z:\EmployeeApp\EmployeeApp\bin\Debug\EmployeeApp.pdb
+Z:\EmployeeApp\EmployeeApp\obj\Debug\EmployeeApp.csprojResolveAssemblyReference.cache
+Z:\EmployeeApp\EmployeeApp\obj\Debug\EmployeeApp.exe
+Z:\EmployeeApp\EmployeeApp\obj\Debug\EmployeeApp.pdb
